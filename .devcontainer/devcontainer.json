@@ -17,7 +17,8 @@
       "extensions": [
         "streetsidesoftware.code-spell-checker",
         "wakatime.vscode-wakatime",
-        "github.copilot"
+        "github.copilot",
+        "ms-dotnettools.csharp"
       ]
     }
   }
